@@ -1,0 +1,14 @@
+bin/
+obj/
+*.user
+*.suo
+.vs/
+data/
+history/
+exports/
+candidate/
+assets/references/
+*.mp4
+*.psd
+Thumbs.db
+.DS_Store
